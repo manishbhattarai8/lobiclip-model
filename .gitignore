@@ -1,0 +1,4 @@
+.venv/
+train2014/
+data/test2014/
+*.pt
